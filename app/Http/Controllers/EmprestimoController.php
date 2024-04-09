@@ -49,7 +49,7 @@ class EmprestimoController extends Controller
         // Retorna o PDF para download
         return $dompdf->stream('emprestimos.pdf');
     }
-8888888888888888888888888888888888888888888888888888888    
+    
     
 
     public function create() {
