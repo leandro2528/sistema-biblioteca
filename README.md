@@ -1,4 +1,4 @@
-Sistema de Gerenciamento de Bibliotecas
+<h1>Sistema de Gerenciamento de Bibliotecas</h1>
 Este é um sistema para gerenciamento de bibliotecas e empréstimos de livros, permitindo o cadastro de leitores, livros, editoras, gêneros, empréstimos e usuários com diferentes níveis de acesso.
 
 Funcionalidades:
